@@ -1,0 +1,32 @@
+body{background-color:black;
+text-align: center;
+}
+h1{color:whitesmoke;
+font-size:80px;}
+
+#lego{
+    display:flex;
+}
+
+.zoom{
+ transition:transform .2s;   
+    
+}
+.zoom:hover{
+    transform:scale(1.5);
+}
+
+.menu{
+margin-left:50px;
+}
+
+.menu:hover{
+ font-size:22px;
+    background-color:chartreuse;
+    
+    
+    
+}
+
+
+p{color: ghostwhite}
